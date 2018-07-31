@@ -1,5 +1,5 @@
 {
-    "name": "imperian/zipus",
+    "name": "imperiansystems/zipus",
     "description": "US zipcode static database.",
     "type": "library",
     "keywords": ["zip code","usa","geodata"],
